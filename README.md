@@ -19,3 +19,4 @@ Datormācība speckurss. Git versiju kontroles sistēma. Laboratorijas darbs Nr 
 - [x] 2. Pirmais projekts.
 - [x] 3. Versiju kontroles pieslēgšana elektronisko ķēžu simulācijās.
 
+** _Es sāku apgūt 'git' versiju kontroles sistēmu_ **.
